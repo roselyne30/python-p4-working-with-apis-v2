@@ -45,8 +45,10 @@ class Search:
         return response_formatted
 
 
+
 # results = Search().get_search_results()
 # print(results)
+
 
 # results_json = Search().get_search_results_json()
 # print(json.dumps(results_json, indent=1))
